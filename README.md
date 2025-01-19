@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a beginner project
 - 📫 How to reach me ig: cyrilnatasha.s
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i can play a guitar, ad i like basketball
+- ⚡ Fun fact: i can play a guitar, and i like basketball
 
 <!---
 ducklingducks/ducklingducks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
