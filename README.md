@@ -12,7 +12,7 @@
 - 💼 Interested in Game Development, Cybersecurity, and building cool tech projects
 - ☕ I’ve worked part-time as a barista and love mixing creativity into everything I do
 - 🎮 Exploring Arduino, AI facial displays, and fun personal projects
-- ✨ Currently learning: ESP32, Python, and Web Development
+- ✨ Currently learning: IOT, Python, and Cybersecurity
 
 ---
 
@@ -30,19 +30,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natasha99&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasha99&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](#)  
-- 📷 [Instagram](#)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cyril-natasha/)  
+- 📷 [Instagram]: cyrilnatasha.s  
 - ✉️ Email: sirilcans@email.com  
 
 ---
